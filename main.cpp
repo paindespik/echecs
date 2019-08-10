@@ -3,6 +3,7 @@
 #include <vector>
 #include "partie.h"
 
+
 using namespace std;
 
 int main(){
